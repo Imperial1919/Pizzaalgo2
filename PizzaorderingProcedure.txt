@@ -3,3 +3,5 @@
 Place order, pay with card via voice identification.
 4. Wait for pizza.
 5. Retreive pizza, tip optional.. Nah, jk, don't be like that. :p
+
+By Bryce Petite
