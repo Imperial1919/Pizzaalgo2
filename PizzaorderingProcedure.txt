@@ -1,12 +1,15 @@
 1. Call man on Phone.
 2. Decide on the pizza you would like to order.
-
+2a:Decide on the type of cheese
+2b: Decide on your type of sauce and the amount/volumne.
+2c:Determine the type and thickness of crust/toppings, if desired.
+2d:If extra funding exists, You may get extra side sif you wish.
 
 
 3. Observe menu if needed right before the man picks up.
 Place order, pay with card via voice identification.
 4. Wait for pizza.
-5. Retreive pizza, tip optional.. Nah. jk, don't be like that. :p
+5. Retreive pizza, tip optional.. Nah, jk, don't be like that. :p
 
 
 
